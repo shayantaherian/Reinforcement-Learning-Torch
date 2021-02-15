@@ -5,4 +5,7 @@
 This repository implements different popular Deep Reinforcement Learning algorithms using pytorch. These are meant to serve as learning tool to complement the learning materials from:
 
 * Deep Q-learning [[1]](https://arxiv.org/abs/1312.5602)
- 
+* Dueling Deep Q-learning [[2]](https://arxiv.org/pdf/1511.06581.pdf)
+* Actor-Critic [[3]](http://incompleteideas.net/book/first/ebook/node66.html#:~:text=The%20policy%20structure%20is%20known,being%20followed%20by%20the%20actor.)
+* PPO [[4]](https://arxiv.org/pdf/1707.06347.pdf)
+* SAC [[5]](https://arxiv.org/abs/1801.01290)
