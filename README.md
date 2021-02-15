@@ -12,7 +12,7 @@ This repository implements different popular Deep Reinforcement Learning algorit
 
 This repository is constantly being updated and will continue to add a new Deep Reinforcement Learning algorithm.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51369142/107987333-b4f30d00-6fc5-11eb-93b1-78f263847afe.png" width="450" title="hover text">
+  <img src="https://user-images.githubusercontent.com/51369142/107987333-b4f30d00-6fc5-11eb-93b1-78f263847afe.png" width="410" title="hover text">
 </p>
 
 ##
